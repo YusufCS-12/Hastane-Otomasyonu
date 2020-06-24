@@ -1,0 +1,34 @@
+C:\Users\ali\Documents\Visual Studio 2015\Projects\aspnet\HTO_2\HTO_2\bin\Debug\HTO_2.exe.config
+C:\Users\ali\Documents\Visual Studio 2015\Projects\aspnet\HTO_2\HTO_2\bin\Debug\HTO_2.exe
+C:\Users\ali\Documents\Visual Studio 2015\Projects\aspnet\HTO_2\HTO_2\bin\Debug\HTO_2.pdb
+C:\Users\ali\Documents\Visual Studio 2015\Projects\aspnet\HTO_2\HTO_2\obj\Debug\HTO_2.csprojResolveAssemblyReference.cache
+C:\Users\ali\Documents\Visual Studio 2015\Projects\aspnet\HTO_2\HTO_2\obj\Debug\HTO_2.Ana_Giriş.resources
+C:\Users\ali\Documents\Visual Studio 2015\Projects\aspnet\HTO_2\HTO_2\obj\Debug\HTO_2.Properties.Resources.resources
+C:\Users\ali\Documents\Visual Studio 2015\Projects\aspnet\HTO_2\HTO_2\obj\Debug\HTO_2.csproj.GenerateResource.Cache
+C:\Users\ali\Documents\Visual Studio 2015\Projects\aspnet\HTO_2\HTO_2\obj\Debug\HTO_2.exe
+C:\Users\ali\Documents\Visual Studio 2015\Projects\aspnet\HTO_2\HTO_2\obj\Debug\HTO_2.pdb
+C:\Users\ali\Documents\Visual Studio 2015\Projects\aspnet\HTO_2\HTO_2\obj\Debug\HTO_2.Hasta_Kabül.resources
+C:\Users\ali\Documents\Visual Studio 2015\Projects\aspnet\HTO_2\HTO_2\obj\Debug\HTO_2.Yönetici_Modülü.resources
+C:\Users\Asif Amiri\Desktop\HTO_2\HTO_2\bin\Debug\HTO_2.exe.config
+C:\Users\Asif Amiri\Desktop\HTO_2\HTO_2\obj\Debug\HTO_2.exe
+C:\Users\Asif Amiri\Desktop\HTO_2\HTO_2\obj\Debug\HTO_2.pdb
+C:\Users\Asif Amiri\Desktop\HTO_2\HTO_2\bin\Debug\HTO_2.exe
+C:\Users\Asif Amiri\Desktop\HTO_2\HTO_2\bin\Debug\HTO_2.pdb
+C:\Users\Asif Amiri\Desktop\HTO_2\HTO_2\obj\Debug\HTO_2.csprojResolveAssemblyReference.cache
+C:\Users\Asif Amiri\Desktop\HTO_2\HTO_2\obj\Debug\HTO_2.Ana_Giriş.resources
+C:\Users\Asif Amiri\Desktop\HTO_2\HTO_2\obj\Debug\HTO_2.Hasta_Kabül.resources
+C:\Users\Asif Amiri\Desktop\HTO_2\HTO_2\obj\Debug\HTO_2.Properties.Resources.resources
+C:\Users\Asif Amiri\Desktop\HTO_2\HTO_2\obj\Debug\HTO_2.Yönetici_Modülü.resources
+C:\Users\Asif Amiri\Desktop\HTO_2\HTO_2\obj\Debug\HTO_2.csproj.GenerateResource.Cache
+C:\Users\YCS\Desktop\HTO_2\HTO_2\bin\Debug\HTO_2.exe.config
+C:\Users\YCS\Desktop\HTO_2\HTO_2\bin\Debug\HTO_2.exe
+C:\Users\YCS\Desktop\HTO_2\HTO_2\bin\Debug\HTO_2.pdb
+C:\Users\YCS\Desktop\HTO_2\HTO_2\obj\Debug\HTO_2.csprojAssemblyReference.cache
+C:\Users\YCS\Desktop\HTO_2\HTO_2\obj\Debug\HTO_2.Ana_Giriş.resources
+C:\Users\YCS\Desktop\HTO_2\HTO_2\obj\Debug\HTO_2.Hasta_Kabül.resources
+C:\Users\YCS\Desktop\HTO_2\HTO_2\obj\Debug\HTO_2.Properties.Resources.resources
+C:\Users\YCS\Desktop\HTO_2\HTO_2\obj\Debug\HTO_2.Yönetici_Modülü.resources
+C:\Users\YCS\Desktop\HTO_2\HTO_2\obj\Debug\HTO_2.csproj.GenerateResource.cache
+C:\Users\YCS\Desktop\HTO_2\HTO_2\obj\Debug\HTO_2.csproj.CoreCompileInputs.cache
+C:\Users\YCS\Desktop\HTO_2\HTO_2\obj\Debug\HTO_2.exe
+C:\Users\YCS\Desktop\HTO_2\HTO_2\obj\Debug\HTO_2.pdb
